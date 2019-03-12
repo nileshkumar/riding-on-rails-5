@@ -1,1 +1,1 @@
-Basic blog application Rails 5
+Basic blog application on Rails 5
